@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pytest
+robot_project/results/
+robot_project/*.log
+*.html
